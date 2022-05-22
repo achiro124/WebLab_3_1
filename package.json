@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.1",
+    "init": "^0.1.2",
+    "jsonwebtoken": "^8.5.1",
+    "nedb": "^1.8.0",
+    "node-js": "^1.0.0"
+  },
+  "name": "lab3_1",
+  "version": "1.0.0",
+  "description": "lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
